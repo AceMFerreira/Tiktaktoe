@@ -87,16 +87,3 @@ function checkWin(currentClass) {
     })
   })
 }
-
-
-/**
- * this.msgElem.className = "center";
-        this.msgElem.innerText = "Player One, you start.";
-        this.msgElem.style.display = "block";
-        // reset current player to X
-        this.currPlayer = "X";
-        // reset gameOver flag
-        this.gameOver = false;
-        // remove game over banner
-        document.getElementById('bnr-end').remove();
- */
